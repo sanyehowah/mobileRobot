@@ -1,7 +1,7 @@
 1、 Modified amcl/amcl_node.cpp
 --
-     # Line 422: changed topic name
-     # /amcl_pose -> /amcl_pose_origin
+     *Line 422: changed topic name
+     */amcl_pose -> /amcl_pose_origin
 
 2、Added mobileRobot/amcl2odom.py
 -
